@@ -41,9 +41,7 @@
 <img src="https://wiredrelations.com/wordpress/wp-content/uploads/2020/04/confluence-1.png" width="90" height="80" style="max-width:100%;" width="160" height="150" style="max-width:100%;">
   
 <h2>🔆Overall Statistics📈:</h2><p align="left"><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirankale08051997&show_icons=true&locale=en&layout=compact" alt="kirankale08051997" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirankale08051997&show_icons=true&locale=en" alt="kirankale08051997" /></p>
 
 <h2>📫 How to reach me ?</h2>
 
@@ -57,4 +55,5 @@
 <a href="https://www.instagram.com/kiran_kale_8/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="kiran_kale_8" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kiranskale08" target="blank"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg" alt="kiranskale08" height="30" width="40" /></a>
 </p>
+
 
