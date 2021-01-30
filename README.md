@@ -46,6 +46,10 @@
               
 ⦿ Shoot Me an 💌 <a href="mailto:kirankale08051997@gmail.com">Email</a>
 
+<h2>🔆Statistics:</h2><p align="left"><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirankale08051997&show_icons=true&locale=en" alt="kirankale08051997" /></p>
+
 <h2 align="left"><img src="https://media.giphy.com/media/JPbB5kTbuUInFfpVQA/giphy.gif" width="90" height="60" style="max-width:100%;">On Platforms:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/kiran-kale-0897" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__ZG9OfMLIpjmA2NZXaIdrFvcvoHdAUIrGA&usqp=CAU" alt="https://www.linkedin.com/in/kiran-kale-0897/" height="30" width="40" /></a>
