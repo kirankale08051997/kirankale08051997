@@ -40,9 +40,6 @@
 <img src="https://images-na.ssl-images-amazon.com/images/I/515HfOnovtL.png" width="90" height="80" style="max-width:100%;" width="160" height="150" style="max-width:100%;">
 <img src="https://wiredrelations.com/wordpress/wp-content/uploads/2020/04/confluence-1.png" width="90" height="80" style="max-width:100%;" width="160" height="150" style="max-width:100%;">
   
-<h2>🔆Overall Statistics📈:</h2><p align="left"><br>
-
-
 <h2>📫 How to reach me ?</h2>
 
 ⦿ Connect with me on <a href="www.linkedin.com/in/kiran-kale-0897">LinkedIn Profile</a>
