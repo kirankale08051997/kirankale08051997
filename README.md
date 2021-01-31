@@ -48,6 +48,8 @@
 
 <h2>🔆Statistics:</h2><p align="left"><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirankale08051997&show_icons=true&locale=en&layout=compact" alt="kirankale08051997" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirankale08051997&show_icons=true&locale=en" alt="kirankale08051997" /></p>
 
 <h2 align="left"><img src="https://media.giphy.com/media/JPbB5kTbuUInFfpVQA/giphy.gif" width="90" height="60" style="max-width:100%;">On Platforms:</h2>
