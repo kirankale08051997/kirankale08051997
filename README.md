@@ -8,7 +8,7 @@
 🌱 I’m currently learning🔧📑 <br>
    ✔️Spring Framework<br>
    ✔️Web Development<br>
-⚡ Know about my Work🔨 Experience📄 <a href="https://drive.google.com/file/d/1VJIEIIDxbaau5PzMpYSOL8_Ii0Jullt9/view?usp=sharing">CV</a>
+⚡ Know about my Work🔨 Experience📄 <a href="https://drive.google.com/file/d/1C00ymE8rRWJPHTRqakmPxZLeVPebZjkt/view?usp=sharing">CV</a>
 
 <h3>Here is quick⚡overview of my Technical skills</h3>
 <h2>🔆Programming Languages:</h2>
