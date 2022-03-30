@@ -6,7 +6,7 @@
 🔆 ORGANIZATIONS & ROLES:
 
 ⚡ Total Work Experience: 2.8 Years </br>
-⚡ <a href="https://www.amdocs.com/"> Amdocs Development Center India</a> - Software Test Engineer ( 2 Years ) - Automation Development and Testing </br>
+⚡ <a href="https://www.amdocs.com/"> Amdocs Development Center India</a> - Software Test Engineer ( 2 Years ) - Automation Development and Manual Testing </br>
 ⚡ <a href="https://www.veritas.com/"> Veritas Technologies LLC India</a> - Software QA Engineer ( Present ) </br>
 ⚡ Bachelor's🎓 in Computer💻Engineering👷‍<br>
 
